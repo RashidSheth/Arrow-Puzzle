@@ -1,0 +1,14 @@
+{
+  "android": {
+    "latestVersion": "1.1.0", // Change this to the new version
+    "minRequiredVersion": "1.0.0", // If set higher than user's version, it will force the update
+    "forceUpdate": false,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.sginfotech.arrowpuzzlegame"
+  },
+  "ios": {
+    "latestVersion": "1.1.0",
+    "minRequiredVersion": "1.0.0",
+    "forceUpdate": false,
+    "storeUrl": "https://apps.apple.com/app/id6477810340"
+  }
+}
