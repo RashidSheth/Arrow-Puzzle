@@ -1,6 +1,6 @@
 {
   "android": {
-    "latestVersion": "1.1.0", // Change this to the new version
+    "latestVersion": "2.0.0", // Change this to the new version
     "minRequiredVersion": "1.0.0", // If set higher than user's version, it will force the update
     "forceUpdate": false,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.sginfotech.arrowpuzzlegame"
